@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="سترك يا ري.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="سترك يا ري.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>dxiA/oK5RBkqy1HJ+58Toy6goR4mwiSkNTOvrkxPBzY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="سترك يا ري.dll" size="6144">
+  <file name="سترك يا ري.dll" size="6656">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>uxnsSQDbF0M9NBKrkstvHnvazS5XgkKObTJNrI03FmY=</dsig:DigestValue>
+      <dsig:DigestValue>FMYOZHEpJGSGff4punahPnWZxHep0ur8wAT6evq7KvQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="سترك يا ري.exe" size="138240">
+  <file name="سترك يا ري.exe" size="138752">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>j5csFTy0pfVqhAEuBW3ZIMMU580/pt8bIgbTMlabVnU=</dsig:DigestValue>
+      <dsig:DigestValue>+/A3YDLll1lVi7dUtFx383cVv3Zi1LxqEzjYC3XQOW0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="سترك يا ري.runtimeconfig.json" size="458">
