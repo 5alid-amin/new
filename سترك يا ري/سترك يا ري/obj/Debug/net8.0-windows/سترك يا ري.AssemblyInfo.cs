@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("سترك يا ري")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc7c1c2320d676e188b55f29727b147a49bbb27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b94bef512bc209404a301da43be038a0ed348612")]
 [assembly: System.Reflection.AssemblyProductAttribute("سترك يا ري")]
 [assembly: System.Reflection.AssemblyTitleAttribute("سترك يا ري")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
