@@ -1,0 +1,5 @@
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\app.publish\سترك يا ري.exe
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\app.publish\سترك يا ري.dll
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\app.publish\سترك يا ري.deps.json
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\app.publish\سترك يا ري.runtimeconfig.json
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\app.publish\سترك يا ري.pdb

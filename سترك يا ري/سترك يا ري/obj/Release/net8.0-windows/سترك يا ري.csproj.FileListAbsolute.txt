@@ -1,0 +1,21 @@
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\سترك يا ري.exe
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\سترك يا ري.deps.json
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\سترك يا ري.runtimeconfig.json
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\سترك يا ري.dll
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\سترك يا ري.pdb
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك_يا_ري.Form1.resources
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.csproj.GenerateResource.cache
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.AssemblyInfoInputs.cache
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.AssemblyInfo.cs
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.csproj.CoreCompileInputs.cache
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.sourcelink.json
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.dll
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\refint\سترك يا ري.dll
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.pdb
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.genruntimeconfig.cache
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\ref\سترك يا ري.dll
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\سترك يا ري.dll.manifest
+D:\new\سترك يا ري\سترك يا ري\bin\Release\net8.0-windows\سترك يا ري.application
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.dll.manifest
+D:\new\سترك يا ري\سترك يا ري\obj\Release\net8.0-windows\سترك يا ري.application
